@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by zhufx on 2017/6/29.
- * 华为校园招聘第二题，简单
+ * 2017华为校园提前批招聘第二题，简单
  */
 public class ReverseWord {
     public static void main(String args[]){

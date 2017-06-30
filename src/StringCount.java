@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
+ * 2017华为校园提前批招聘第一题，简单
  * Created by zhufx on 2017/6/29.
  */
 public class StringCount {
