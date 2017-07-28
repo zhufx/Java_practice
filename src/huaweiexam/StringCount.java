@@ -1,3 +1,5 @@
+package huaweiexam;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

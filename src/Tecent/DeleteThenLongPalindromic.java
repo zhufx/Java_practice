@@ -1,3 +1,5 @@
+package Tecent;
+
 import java.util.Scanner;
 
 /**
