@@ -1,4 +1,4 @@
-package huaweiexam;
+package Huawei;
 
 import java.util.Scanner;
 import java.util.Stack;
